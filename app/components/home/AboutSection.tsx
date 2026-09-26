@@ -62,7 +62,7 @@ const AboutSection = () => {
 
             <Link
               href="/about"
-              className="group mt-8 inline-flex items-center gap-2 font-semibold text-primary underline transition-colors hover:text-primary-dark"
+              className="group mt-8 inline-flex items-center gap-2 font-semibold text-primary transition-colors hover:text-gold"
             >
               Learn more about us
               <ArrowRight

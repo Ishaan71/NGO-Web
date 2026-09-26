@@ -68,7 +68,7 @@ export default function CommunitySupport() {
 
           <Link
             href="/our-impact"
-            className="mt-9 inline-flex items-center gap-2 font-semibold text-primary underline transition hover:text-primary-dark"
+            className="mt-9 inline-flex items-center gap-2 font-semibold text-primary transition-colors hover:text-gold"
           >
             Explore our impact
             <ArrowUpRight size={18} />

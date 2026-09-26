@@ -55,7 +55,7 @@ const WhatWeDo = () => {
 
               <Link
                 href="/what-we-do"
-                className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary underline transition-colors hover:text-primary-dark"
+                className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary transition-colors hover:text-gold"
               >
                 Explore
                 <ChevronRight size={16} />
@@ -83,7 +83,7 @@ const WhatWeDo = () => {
 
               <Link
                 href="/what-we-do"
-                className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary underline transition-colors hover:text-primary-dark"
+                className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary transition-colors hover:text-gold"
               >
                 Explore
                 <ChevronRight size={16} />
@@ -111,7 +111,7 @@ const WhatWeDo = () => {
 
               <Link
                 href="/what-we-do"
-                className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary underline transition-colors hover:text-primary-dark"
+                className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary transition-colors hover:text-gold"
               >
                 Explore
                 <ChevronRight size={16} />
@@ -139,7 +139,7 @@ const WhatWeDo = () => {
 
               <Link
                 href="/what-we-do"
-                className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary underline transition-colors hover:text-primary-dark"
+                className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-primary transition-colors hover:text-gold"
               >
                 Explore
                 <ChevronRight size={16} />

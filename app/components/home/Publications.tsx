@@ -24,7 +24,7 @@ const Publications = () => {
 
             <Link
               href="/publications"
-              className="group inline-flex items-center gap-2 font-semibold text-primary underline transition-colors hover:text-primary-dark"
+              className="group inline-flex items-center gap-2 font-semibold text-primary transition-colors hover:text-gold"
             >
               View all resources
               <ArrowRight
@@ -55,7 +55,7 @@ const Publications = () => {
 
                 <Link
                   href="/publications"
-                  className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-primary underline transition-colors hover:text-primary-dark"
+                  className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-primary transition-colors hover:text-gold"
                 >
                   Read more
                   <ChevronRight size={16} />
@@ -82,7 +82,7 @@ const Publications = () => {
 
                 <Link
                   href="/publications"
-                  className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-primary underline transition-colors hover:text-primary-dark"
+                  className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-primary transition-colors hover:text-gold"
                 >
                   Explore
                   <ChevronRight size={16} />
@@ -109,7 +109,7 @@ const Publications = () => {
 
                 <Link
                   href="/publications"
-                  className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-primary underline transition-colors hover:text-primary-dark"
+                  className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-primary transition-colors hover:text-gold"
                 >
                   Discover
                   <ChevronRight size={16} />

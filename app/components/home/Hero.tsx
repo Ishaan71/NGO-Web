@@ -38,7 +38,7 @@ const Hero = () => {
             <div className="mt-9 flex flex-col gap-4 sm:flex-row">
               <Link
                 href="/what-we-do"
-                className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-7 py-3.5 font-semibold text-text-on-primary transition-colors duration-300 hover:bg-primary-dark"
+                className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-7 py-3.5 font-semibold text-text-on-primary transition-colors duration-300 hover:bg-gold hover:text-primary-dark"
               >
                 Discover Our Work
                 <ArrowRight
